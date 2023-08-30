@@ -1,9 +1,9 @@
 
 ### Hi! 👋
 
-👩‍💻  I am a Frontend Developer with **4+ years** of commercial experience. 
+👩‍💻  I am a Frontend Developer with **5+ years** of commercial experience. 
 
-🖥  I've got experience working with **Vue.js** and **React**, but also **jQuery**. I've worked with **CSS**, **SCSS** & **Bootstrap**. I've created and managed websites with **WordPress**. Recently, I've been learning **React Native (expo)** and exploring mobile app development. I've worked with both **REST** and **GraphQL** APIs. 
+🖥  I've got experience working with **React** and **Vue**, but also **jQuery**. I've worked with **CSS**, **SCSS** & **Bootstrap**. I've created and managed websites with **WordPress**. I had also been learning **React Native (expo)** and exploring mobile app development. I've worked with both **REST** and **GraphQL** APIs. 
 
 🌎  I speak fluent 🇬🇧 English, 🇲🇽 Spanish and 🇵🇱 Polish, and I have lived & studied in Poland, France and Mexico. I also have gathered some business experience in the fields of Project Management, (Digital) Marketing and content creation. 
 
